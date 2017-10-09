@@ -1,2 +1,3 @@
 # first-proj
-my first repository
+this is my first git project 
+fmy first repository
